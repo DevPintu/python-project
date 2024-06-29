@@ -270,7 +270,4 @@ na6.place(x=1148,y=273,width=49,height=47)
 en1=Button(f2,text="Ent",font=("calibri",14),height=4,bd=5,relief=GROOVE,bg="#000000",fg="white",command=enter)
 en1.place(x=1208,y=218,width=49,height=104)
 
-#lab1=Label(master=f2,textvariable=abc,font=("calibri",15))
-#lab1.place(x=15,y=300,width=60,height=45)
-
 window.mainloop()
